@@ -1,0 +1,6 @@
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\CodeAlong\CodeAlong\bin\Debug\CodeAlong.exe.config
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\CodeAlong\CodeAlong\bin\Debug\CodeAlong.exe
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\CodeAlong\CodeAlong\bin\Debug\CodeAlong.pdb
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\CodeAlong\CodeAlong\obj\Debug\CodeAlong.csprojResolveAssemblyReference.cache
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\CodeAlong\CodeAlong\obj\Debug\CodeAlong.exe
+C:\Users\camsc\OneDrive\devCode\demo\visualStudio\CodeAlong\CodeAlong\obj\Debug\CodeAlong.pdb
